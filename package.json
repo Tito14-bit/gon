@@ -1,0 +1,19 @@
+{
+  "name": "gon",
+  "version": "1.0.0",
+  "description": "hxh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tito14-bit/gon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tito14-bit/gon/issues"
+  },
+  "homepage": "https://github.com/Tito14-bit/gon#readme"
+}
